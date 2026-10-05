@@ -1,5 +1,4 @@
 # ESD-PROJECT
-#Project Overview
 ![image alt](https://github.com/Somnaths13/ESD-PROJECT/blob/main/Screenshot%202026-09-10%20160032.png)
 # Introduction
 This project uses machine learning to predict crop yields. By analyzing weather, soil, and historical data, it provides accurate forecasts to help farmers optimize planting, resource allocation, and market strategies. The goal is to enhance agricultural productivity and sustainability.
